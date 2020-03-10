@@ -1,19 +1,22 @@
-![Logo de Bow](https://bow.dev/assets/img/logo/logo.png)
+:stylesheet: ../adoc-foundation.css
+image::https://bow.dev/assets/img/logo/logo.png[]
 
-= BOW Backend / Fullstack Dev
+== BOW Backend / Fullstack Dev
 
-**TL;DR** Buscamos un desarrollador con conocimiento en lenguajes usados para backend (Python, Ruby, PHP, Java, etc.). Aquí usarás Python con Django y JavaScript. **Salario: $15-$35k MXN libres mensuales**. Zona de trabajo: San Miguel Chapultepec.
+**TL;DR** Buscamos un desarrollador con conocimiento en lenguajes usados para backend (Python, Ruby, PHP, Java, etc.). Aquí usarás Python con Django y JavaScript. **Salario: $15-$35k MXN libres mensuales**. Zona de trabajo: San Miguel Chapultepec. image:https://www.metro.cdmx.gob.mx/storage/app/media/lared/linea1/juanacatlan.png[,20,20]
 
 Si quieres aplicar mándanos un correo a hectorip@hellodave.mx
 
 include::project_1.adoc[]
 
-=== Áreas del proyecto
+=== Áreas de conocimiento del proyecto
 
 * Criptografía
 * Seguridad
 * Transacciones
 * Manejo de inventarios de altos volúmenes
+
+Esto no quiere decir que debes de saber de todo esto, sino que conocimiento en estas áreas nos ayudaría
 
 == Necesidades técnicas
 
@@ -36,7 +39,6 @@ Otras habilidades deseadas:
 
 
 Buscamos personas que puedan aprender rápidamente y adaptarse a trabajar dentro de un equipo de tecnología que avanza rápido.
-
 
 == Contacto
 
