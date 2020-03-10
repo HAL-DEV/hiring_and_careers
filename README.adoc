@@ -33,4 +33,4 @@ Nuestros proyectos principales actualmente (03-2020) son:
 Vacantes:
 
 * link:careers/backend_dev.adoc[Backend Dev]
-* link:careers/backend_dev.adoc[Mobile Dev]
+* link:careers/mobile_dev.adoc[Mobile Dev]
