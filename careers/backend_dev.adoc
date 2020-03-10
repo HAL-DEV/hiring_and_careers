@@ -1,3 +1,5 @@
+![Logo de Bow](https://bow.dev/assets/img/logo/logo.png)
+
 = BOW Backend / Fullstack Dev
 
 **TL;DR** Buscamos un desarrollador con conocimiento en lenguajes usados para backend (Python, Ruby, PHP, Java, etc.). Aquí usarás Python con Django y JavaScript. **Salario: $15-$35k MXN libres mensuales**. Zona de trabajo: San Miguel Chapultepec.

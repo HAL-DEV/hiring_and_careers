@@ -1,3 +1,6 @@
+
+![Logo de Bow](https://bow.dev/assets/img/logo/logo.png)
+
 = Acerca de BOW (Antes HAL)
 
 Somos un estudio de desarrollo de productos digitales enfocado en servir a los clientes de la mejor manera.
