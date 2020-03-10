@@ -1,0 +1,42 @@
+:stylesheet: ../adoc-foundation.css
+image::https://bow.dev/assets/img/logo/logo.png[]
+
+== BOW Mobile Dev
+
+**TL;DR** Buscamos un desarrollador de aplicaciones móviles Android o iOS, para una aplicación de pagos móviles con varios características especiales. **Salario: $35k MXN libres mensuales**. Zona de trabajo: San Miguel Chapultepec. image:https://www.metro.cdmx.gob.mx/storage/app/media/lared/linea1/juanacatlan.png[,20,20]
+
+Si quieres aplicar mándanos un correo a hectorip@hellodave.mx
+
+include::project_1.adoc[]
+
+=== Áreas de conocimiento del proyecto
+
+* Criptografía
+* Seguridad
+* Transacciones
+* Manejo de inventarios de altos volúmenes
+
+Esto no quiere decir que debes de saber de todo esto, sino que conocimiento en estas áreas nos ayudaría
+
+== Necesidades técnicas
+
+_Alguno_ de los siguientes lenguajes:
+
+* **Kotlin**
+* **Swift**
+* Objective C
+* Java para Android
+
+Otras habilidades deseadas:
+
+* Git
+* Bases de Datos - SQL
+* Manejo de concurrencia
+* API's: Firebase, Auth0
+
+
+Buscamos personas que puedan aprender rápidamente y adaptarse a trabajar dentro de un equipo de tecnología que avanza rápido.
+
+== Contacto
+
+Envía un correo con tu CV a hectorip@hellodave.mx, o un mensaje al 55 1958 5995.
