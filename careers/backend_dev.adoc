@@ -1,0 +1,45 @@
+= BOW Backend / Fullstack Dev
+
+**TL;DR** Buscamos un desarrollador con conocimiento en lenguajes usados para backend (Python, Ruby, PHP, Java, etc.). Aquí usarás Python con Django y JavaScript. **Salario: $15-$35k MXN libres mensuales**. Zona de trabajo: San Miguel Chapultepec.
+
+Si quieres aplicar mándanos un correo a hectorip@hellodave.mx
+
+== Descripción del proyecto
+
+Estamos desarrollando un método de pago para situaciones adversas a la tecnología actual: con poco acceso a internet, un ambiente descontrolado y hostil; y la necesidad de transacciones rápidas y seguras. 
+
+Para esto necesitamos construir un equipo de personas enfocadas en la calidad del proyecto, que entiendan el problema y usen sus conocimientos tecnológicos para resolverlo.
+
+=== Áreas del proyecto
+
+* Criptografía
+* Seguridad
+* Transacciones
+* Manejo de inventarios de altos volúmenes
+
+== Necesidades técnicas
+
+_Alguno_ de los siguientes lenguajes:
+
+* **Python**
+* Ruby
+* PHP
+* Java
+* C/C++
+* Go
+* JavaScript (Node)
+
+Otras habilidades deseadas:
+
+* Git
+* Bases de Datos - SQL
+* Manejo de concurrencia
+* Cloud computing - Lambdas, servicios cómputo y almacenamiento bajo demanda
+
+
+Buscamos personas que puedan aprender rápidamente y adaptarse a trabajar dentro de un equipo de tecnología que avanza rápido.
+
+
+== Contacto
+
+Envía un correo con tu CV a hectorip@hellodave.mx, o un mensaje al 55 1958 5995.

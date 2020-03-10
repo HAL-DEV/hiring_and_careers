@@ -1,0 +1,28 @@
+= Acerca de BOW (Antes HAL)
+
+Somos un estudio de desarrollo de productos digitales enfocado en servir a los clientes de la mejor manera.
+
+Nos gusta usar tecnología avanzada, pero preferimos innovar en las funcionalidades del proudcto.
+
+== Tecnología que usamos
+
+* Python
+** Django
+** Flask
+* Go
+* Elixir
+* Infraestructura
+** AppEngine
+** Todas la nubes
+
+
+== Nuestros clientes
+
+Históricamente, hemos trabajado principalmente para el sector financiero, pero aceptamos proyectos de cualquier industria.
+También hemos trabajando haciendo varios sistemas conversacionales para diferentes industrias.
+
+Nuestros proyectos principales actualmente (03-2020) son:
+
+* Un método de pago para situaciones adversas para los medios de pagos comunes: sin internet y teniendo poco tiempo para pagar.
+* Un bot gigantezco que construye una relación con el usuario.
+* Plataformas de digitalización para el sector financiero
