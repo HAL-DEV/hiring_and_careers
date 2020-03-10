@@ -7,7 +7,11 @@ image::https://bow.dev/assets/img/logo/logo.png[]
 
 Si quieres aplicar mándanos un correo a hectorip@hellodave.mx
 
-include::project_1.adoc[]
+== Descripción del proyecto
+
+Estamos desarrollando un método de pago para situaciones adversas a la tecnología actual: con poco acceso a internet, un ambiente descontrolado y hostil; y la necesidad de transacciones rápidas y seguras. 
+
+Para esto necesitamos construir un equipo de personas enfocadas en la calidad del proyecto, que entiendan el problema y usen sus conocimientos tecnológicos para resolverlo.
 
 === Áreas de conocimiento del proyecto
 

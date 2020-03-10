@@ -1,5 +1,4 @@
-
-![Logo de Bow](https://bow.dev/assets/img/logo/logo.png)
+image::https://bow.dev/assets/img/logo/logo.png[]
 
 = Acerca de BOW (Antes HAL)
 
@@ -29,3 +28,9 @@ Nuestros proyectos principales actualmente (03-2020) son:
 * Un método de pago para situaciones adversas para los medios de pagos comunes: sin internet y teniendo poco tiempo para pagar.
 * Un bot gigantezco que construye una relación con el usuario.
 * Plataformas de digitalización para el sector financiero
+
+
+Vacantes:
+
+* link:careers/backend_dev.adoc[Backend Dev]
+* link:careers/backend_dev.adoc[Mobile Dev]
