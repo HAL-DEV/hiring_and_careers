@@ -1,10 +1,8 @@
 image::https://bow.dev/assets/img/logo/logo.png[]
 
-= Acerca de BOW (Antes HAL)
+= Acerca de BOW
 
-Somos un estudio de desarrollo de productos digitales enfocado en servir a los clientes de la mejor manera.
-
-Nos gusta usar tecnología avanzada, pero preferimos innovar en las funcionalidades del proudcto.
+Somos un estudio de **desarrollo de productos digitales** enfocado en servir a los clientes de la mejor manera. Nos gusta usar tecnología avanzada, pero preferimos innovar en las funcionalidades del producto.
 
 == Tecnología que usamos
 
@@ -16,7 +14,7 @@ Nos gusta usar tecnología avanzada, pero preferimos innovar en las funcionalida
 * Infraestructura
 ** AppEngine
 ** Todas la nubes
-
+** Servicios administrados y serverless
 
 == Nuestros clientes
 
@@ -25,20 +23,33 @@ También hemos trabajando haciendo varios sistemas conversacionales para diferen
 
 Nuestros proyectos principales actualmente (03-2020) son:
 
-* Un método de pago para situaciones adversas para los medios de pagos comunes: sin internet y teniendo poco tiempo para pagar.
-* Un bot gigantezco que construye una relación con el usuario.
+* Un método de pago para situaciones adversas para los medios de pagos comunes: sin internet y teniendo poco tiempo para pagar
+* Un bot gigantezco que construye una relación con el usuario
 * Plataformas de digitalización para el sector financiero
 
-
-=== Vacantes:
-
-
-==== Aplicación de pagos
+== Vacantes:
 
 * link:careers/backend_dev.adoc[Backend Dev]
 * link:careers/mobile_dev.adoc[Mobile Dev]
 
-==== Chatbot complejo
+=== El ambiente de trabajo
 
-* link:careers/backend_dev.adoc[Backend Dev]
-* link:careers/mobile_dev.adoc[Mobile Dev]
+Nuestro espíritu:
+
+* Tener un equipo que haga productos increíbles que muchas personas quieran usar. Para esto creemos que se necesita:
+** Disciplina
+** Motivación: Relevancia de lo que se está haciendo y hacer el bien
+** Excelencia técnica
+** Aprendizaje continuo
+* Hacer lo mejor tecnológicamente y desde el punto de vista del negocio para nuestros clientes
+* Preparar a nuestros clientes para el producto
+* Estar orgullosos de los productos que hacemos
+
+Esto lo intentamos lograr mediante:
+
+* Crecimiento personal y de equipo
+* Límites establecidos del trabajo
+* Ambiente de trabajo relajado y flexible
+* Responsabilidades claras
+* Transparencia
+* Inversión en aprendizaje constante
