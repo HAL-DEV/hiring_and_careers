@@ -7,31 +7,57 @@ image::https://bow.dev/assets/img/logo/logo.png[]
 
 Si quieres aplicar mándanos un correo a hectorip@hellodave.mx
 
-== Descripción del proyecto
+== Los proyectos
+
+Somos un estudio desarrollo de productos digitales con proyectos muy variados: eCommerce, Fintech, Chatbots de servicio, automatización de procesos de negocio,  entre otros.
+
+Actualmente necesitamos ayuda en dos proyectos específicos.
+
+=== Método de pago parcialmente offline
 
 Estamos desarrollando un método de pago para situaciones adversas a la tecnología actual: con poco acceso a internet, un ambiente descontrolado y hostil; y la necesidad de transacciones rápidas y seguras. 
 
 Para esto necesitamos construir un equipo de personas enfocadas en la calidad del proyecto, que entiendan el problema y usen sus conocimientos tecnológicos para resolverlo.
 
-=== Áreas de conocimiento del proyecto
+==== Áreas de conocimiento del proyecto
 
 * Criptografía
 * Seguridad
 * Transacciones
 * Manejo de inventarios de altos volúmenes
 
-Esto no quiere decir que debes de saber de todo esto, sino que conocimiento en estas áreas nos ayudaría
+Esto no quiere decir que debes de saber de todo esto, sino que conocimiento en estas áreas nos ayudarían a desarrollarlo más rápido.
+
+=== Plataforma para apoyo a la salud mental
+
+El objetivo de este proyecto es ayudar a las empresas a medir el estado de sus empleados en cuanto a salud mental (temas como depresión, ansiedad, estrés, resiliencia) y a los usuarios finales a mejorar en estos temas.
+
+La plataforma reporta el estado general de manera anónima y sugiere acciones necesarias.
+Para el usuario existe una aplicación (Android, iOS, Web) que con una interfaz de chat conversa con el usuario, sugiriéndole temas para platicar, tests psicológicas y dándole reportes, contenido y ejercicios para que mida y mejore su estado emocional.
+
+Los retos en este proyecto incluyen el manejo de grandes cantidades de información, un sistema resiliente y con muchas partes
+
+=== Áreas del conocimiento del proyecto
+
+* Diseño y desarrollo de interfaces de conversación
+* Seguridad/Protección de datos
+* API's
+* Concurrencia y asincronía
+* Análisis de datos
+* Procesamiento de lenguaje natural
+
+Conocimiento y experiencia en alguna de esas áreas sería muy útil.
 
 == Necesidades técnicas
 
 _Alguno_ de los siguientes lenguajes:
 
 * **Python**
+* Go
 * Ruby
 * PHP
 * Java
 * C/C++
-* Go
 * JavaScript (Node)
 
 Otras habilidades deseadas:
@@ -40,10 +66,10 @@ Otras habilidades deseadas:
 * Bases de Datos - SQL
 * Manejo de concurrencia
 * Cloud computing - Lambdas, servicios cómputo y almacenamiento bajo demanda
-
+* Diseño y desarrollo de API's
 
 Buscamos personas que puedan aprender rápidamente y adaptarse a trabajar dentro de un equipo de tecnología que avanza rápido.
 
 == Contacto
 
-Envía un correo con tu CV a hectorip@hellodave.mx, o un mensaje al 55 1958 5995.
+Envía un correo con tu CV a **hectorip@hellodave.mx**, o un mensaje al **55 1958 5995**.
