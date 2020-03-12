@@ -30,7 +30,15 @@ Nuestros proyectos principales actualmente (03-2020) son:
 * Plataformas de digitalización para el sector financiero
 
 
-Vacantes:
+=== Vacantes:
+
+
+==== Aplicación de pagos
+
+* link:careers/backend_dev.adoc[Backend Dev]
+* link:careers/mobile_dev.adoc[Mobile Dev]
+
+==== Chatbot complejo
 
 * link:careers/backend_dev.adoc[Backend Dev]
 * link:careers/mobile_dev.adoc[Mobile Dev]
