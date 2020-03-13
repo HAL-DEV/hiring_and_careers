@@ -1,0 +1,49 @@
+:stylesheet: ../adoc-foundation.css
+image::https://bow.dev/assets/img/logo/logo.png[]
+== Tech Test BOW
+
+Después de leer y entender el estado actual del proyecto en: 
+
+link::Proyecto Jenny[https://www.notion.so/Proyecto-Jenny-a68a0453d3f7437eaa1573a5792baa12]
+
+Crea un documento que explique a un equipo (con tres partes: técnica, diseño de interacción y comercial) el que consideras el más grande reto del proyecto, un plan para resolverlo y qué tecnologías utilizarías. 
+
+=== Prueba de Código
+
+Diseña e Implementa un sistema en el lenguaje de tu preferencia, que le permita a un usuario crear una encuesta de investigación social y de mercado y aplicar dicha encuesta mediante un bot (Messenger, Telegram, Slack).
+
+Dicha encuesta podrá incluir un número indeterminado de preguntas, las preguntas podrán ser abiertas (texto), categóricas (opción múltiple), numérica o mixta (escala), el orden de las preguntas podrá variar dependiendo de lo que el usuario vaya contestando.
+
+Por ejemplo si la encuesta es sobre fumadores y una de las preguntas es: "¿Fumas?" , si responde que "Sí", debería mandar las siguientes preguntas asociadas con fumar: "¿Cuantas cajetillas al día?" "¿Que marca de cigarro?" "¿Con filtro o sin filtro?". Pero responde "No" deberá saltarse a una pregunta no relacionada con este tema.
+
+El bot debe aplicar la encuesta, y capturar la información en un sistema del que eventualmente pueda extraerse un CSV para hacer análisis de los datos. 
+
+El tiempo límite para la realización de este ejercicio es de 12 horas, distribuidos a tu mejor criterio durante los siguientes 5 días. Parte de la evaluación considerará las simplificaciones que hiciste que te permitan cumplir con los requerimientos en el tiempo especificado de la mejor manera.
+
+La solución debe estar en línea.
+
+=== Tecnología
+
+Sugerimos Python como lenguaje de programación. Puedes usar Flask, Django o algún otro framework o librerías.
+
+Otras opciones son:
+
+* JavaScript
+* PHP
+* Ruby
+* Go
+* Elixir
+
+=== Puntos de evaluación
+
+. Diseño de la solución:
+    .. Cumplimiento de los requerimientos técnicos
+    .. Mantenibilidad
+    .. Simplicidad
+    .. Escalabilidad
+    .. Documentación (comentarios)
+
+. Implementación de la solución
+    .. Simplicidad del código
+    .. Organización de los componentes
+    .. Deployment
