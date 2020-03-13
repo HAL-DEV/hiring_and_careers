@@ -1,6 +1,7 @@
+:stylesheet: ./adoc-foundation.css
 image::https://bow.dev/assets/img/logo/logo.png[]
 
-= Acerca de BOW
+== Acerca de BOW
 
 Somos un estudio de **desarrollo de productos digitales** enfocado en dar el mejor servicio posible a los clientes. Nos gusta usar tecnología avanzada, pero preferimos **innovar en las funcionalidades del producto**.
 
@@ -46,7 +47,9 @@ Nuestro espíritu:
 
 Esto lo intentamos lograr mediante:
 
-* Crecimiento personal y de equipo
+* Crecimiento personal y de equipo:
+** Planes de carrera
+** Proyectos retadores e interesantes
 * Límites establecidos del trabajo
 * Ambiente de trabajo relajado y flexible
 ** L-J: 10AM-7PM en la oficina (esto es flexible)
