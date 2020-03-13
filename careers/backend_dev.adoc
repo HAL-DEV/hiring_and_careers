@@ -26,7 +26,7 @@ Para esto necesitamos construir un equipo de personas enfocadas en la calidad de
 * Transacciones
 * Manejo de inventarios de altos volúmenes
 
-Esto no quiere decir que debes de saber de todo esto, sino que conocimiento en estas áreas nos ayudarían a desarrollarlo más rápido.
+Experiencia en éstas áreas sería muy útil para el proyecto, pero no es requerido.
 
 === Plataforma para apoyo a la salud mental
 
@@ -46,7 +46,7 @@ Los retos en este proyecto incluyen el manejo de grandes cantidades de informaci
 * Análisis de datos
 * Procesamiento de lenguaje natural
 
-Conocimiento y experiencia en alguna de esas áreas sería muy útil.
+Conocimiento y experiencia en alguna de esas áreas sería muy útil, igual no requerido.
 
 == Necesidades técnicas
 

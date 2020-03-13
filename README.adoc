@@ -2,7 +2,7 @@ image::https://bow.dev/assets/img/logo/logo.png[]
 
 = Acerca de BOW
 
-Somos un estudio de **desarrollo de productos digitales** enfocado en servir a los clientes de la mejor manera. Nos gusta usar tecnología avanzada, pero preferimos innovar en las funcionalidades del producto.
+Somos un estudio de **desarrollo de productos digitales** enfocado en dar el mejor servicio posible a los clientes. Nos gusta usar tecnología avanzada, pero preferimos **innovar en las funcionalidades del producto**.
 
 == Tecnología que usamos
 
@@ -13,19 +13,18 @@ Somos un estudio de **desarrollo de productos digitales** enfocado en servir a l
 * Elixir
 * Infraestructura
 ** AppEngine
-** Todas la nubes
-** Servicios administrados y serverless
+** GCP, AWS, Azure
+** Servicios administrados y serverless (Firebase, CloudSQL, BigQuery, Lambda, etc.)
 
 == Nuestros clientes
 
-Históricamente, hemos trabajado principalmente para el sector financiero, pero aceptamos proyectos de cualquier industria.
-También hemos trabajando haciendo varios sistemas conversacionales para diferentes industrias.
+Históricamente, hemos trabajado para diferentes industrias: publishers, sector financiero, eCommerce, salud y gobierno. Varios de nuestros proyectos han sido enfocados en crear interfaces conversacionales para diferentes sectores.
 
-Nuestros proyectos principales actualmente (03-2020) son:
+Nuestros proyectos principales actualmente (2020) son:
 
 * Un método de pago para situaciones adversas para los medios de pagos comunes: sin internet y teniendo poco tiempo para pagar
-* Un bot gigantezco que construye una relación con el usuario
-* Plataformas de digitalización para el sector financiero
+* Una plataforma enfocada en la salud mental que permite ayudar a los usuarios finales y crear reportes anónimos para las empresas que la contratan. La interfaz principal es un chatbot que intenta construir una relación duradera con el usuario final.
+* Plataformas de digitalización para el sector financiero (Créditos e inversiones)
 
 == Vacantes:
 
@@ -42,7 +41,7 @@ Nuestro espíritu:
 ** Excelencia técnica
 ** Aprendizaje continuo
 * Hacer lo mejor tecnológicamente y desde el punto de vista del negocio para nuestros clientes
-* Preparar a nuestros clientes para el producto
+* Preparar a nuestros clientes para el futuro
 * Estar orgullosos de los productos que hacemos
 
 Esto lo intentamos lograr mediante:
@@ -50,6 +49,8 @@ Esto lo intentamos lograr mediante:
 * Crecimiento personal y de equipo
 * Límites establecidos del trabajo
 * Ambiente de trabajo relajado y flexible
+** L-J: 10AM-7PM en la oficina (esto es flexible)
+** V: 8AM-4PM Remoto
 * Responsabilidades claras
 * Transparencia
 * Inversión en aprendizaje constante
