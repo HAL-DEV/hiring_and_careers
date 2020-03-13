@@ -4,7 +4,7 @@ image::https://bow.dev/assets/img/logo/logo.png[]
 
 Después de leer y entender el estado actual del proyecto en: 
 
-link::Proyecto Jenny[https://www.notion.so/Proyecto-Jenny-a68a0453d3f7437eaa1573a5792baa12]
+link:https://www.notion.so/Proyecto-Jenny-a68a0453d3f7437eaa1573a5792baa12[Proyecto Jenny]
 
 Crea un documento que explique a un equipo (con tres partes: técnica, diseño de interacción y comercial) el que consideras el más grande reto del proyecto, un plan para resolverlo y qué tecnologías utilizarías. 
 
