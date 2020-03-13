@@ -1,4 +1,4 @@
-:stylesheet: ../adoc-foundation.css
+:stylesheet: ./adoc-foundation.css
 image::https://bow.dev/assets/img/logo/logo.png[]
 == Tech Test BOW
 
