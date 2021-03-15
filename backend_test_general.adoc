@@ -1,49 +1,38 @@
 :stylesheet: ./adoc-foundation.css
-image::https://bow.dev/assets/img/logo/logo.png[]
-== Tech Test BOW
+image::https://res.cloudinary.com/hectorip/image/upload/v1569905724/hal_orange_ky85bn.png[]
 
-Después de leer y entender el estado actual del proyecto en: 
+== Prueba de Código HAL
 
-link:https://www.notion.so/Proyecto-Jenny-a68a0453d3f7437eaa1573a5792baa12[Proyecto Jenny]
+Diseña e implementa un sistema en el lenguaje de tu preferencia, que le permita a un usuario crear una encuesta de investigación social y de mercado y aplicar dicha encuesta mediante un bot (Messenger, Telegram o Slack).
 
-Crea un documento que explique a un equipo (con tres partes: técnica, diseño de interacción y comercial) el que consideras el más grande reto del proyecto, un plan para resolverlo y qué tecnologías utilizarías. 
+Dicha encuesta podrá incluir un número indeterminado de preguntas, las preguntas podrán ser abiertas (texto) o categóricas (opción múltiple).
 
-=== Prueba de Código
+El bot debe aplicar la encuesta, y capturar la información y guardarla para poder ser consultada.
 
-Diseña e Implementa un sistema en el lenguaje de tu preferencia, que le permita a un usuario crear una encuesta de investigación social y de mercado y aplicar dicha encuesta mediante un bot (Messenger, Telegram, Slack).
+La solución debe estar en línea y el código en un repo de git.
 
-Dicha encuesta podrá incluir un número indeterminado de preguntas, las preguntas podrán ser abiertas (texto), categóricas (opción múltiple), numérica o mixta (escala), el orden de las preguntas podrá variar dependiendo de lo que el usuario vaya contestando.
-
-Por ejemplo si la encuesta es sobre fumadores y una de las preguntas es: "¿Fumas?" , si responde que "Sí", debería mandar las siguientes preguntas asociadas con fumar: "¿Cuantas cajetillas al día?" "¿Que marca de cigarro?" "¿Con filtro o sin filtro?". Pero responde "No" deberá saltarse a una pregunta no relacionada con este tema.
-
-El bot debe aplicar la encuesta, y capturar la información en un sistema del que eventualmente pueda extraerse un CSV para hacer análisis de los datos. 
-
-El tiempo límite para la realización de este ejercicio es de 12 horas, distribuidos a tu mejor criterio durante los siguientes 5 días. Parte de la evaluación considerará las simplificaciones que hiciste que te permitan cumplir con los requerimientos en el tiempo especificado de la mejor manera.
-
-La solución debe estar en línea.
+Envía tu solución a hectorip[at]hellodave.mx
 
 === Tecnología
 
-Sugerimos Python como lenguaje de programación. Puedes usar Flask, Django o algún otro framework o librerías.
+Sugerimos Python como lenguaje de programación. Puedes usar Flask, Django o algún otro framework.
 
-Otras opciones son:
+=== Evaluación
 
-* JavaScript
-* PHP
-* Ruby
-* Go
-* Elixir
+Por favor, no le dediques más de 3 horas. Si recibiste esta prueba estás casi dentro, pero queremos
 
 === Puntos de evaluación
 
 . Diseño de la solución:
     .. Cumplimiento de los requerimientos técnicos
-    .. Mantenibilidad
     .. Simplicidad
-    .. Escalabilidad
     .. Documentación (comentarios)
 
 . Implementación de la solución
     .. Simplicidad del código
     .. Organización de los componentes
     .. Deployment
+
+== Extra
+
+Crea un "journal" en el que vayas apuntando lo que pasó por tu cabeza mientras estabas desarrollando la solución, los recursos que utilizaste y los problemas más grandes que tuviste.
