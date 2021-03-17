@@ -1,0 +1,43 @@
+:stylesheet: ./adoc-foundation.css
+image::https://res.cloudinary.com/hectorip/image/upload/v1569905724/hal_orange_ky85bn.png[]
+
+== Prueba de Código HAL
+
+Diseña e implementa un sistema en Python, que le permita a un usuario crear una encuesta de investigación social y de mercado y aplicar dicha encuesta mediante un bot (Messenger, Telegram o Slack).
+
+Dicha encuesta podrá incluir un número indeterminado de preguntas, las preguntas podrán ser abiertas (texto) o categóricas (opción múltiple). Si la respuesta es categórica, diferentes respuestas puede llevar a diferentes preguntas. Ejemplo:
+
+P - ¿Eres mayor de 18 años?
+Sí -> ¿Cuándo sacaste tu credencial de elector?
+No -> ¿Tienes permiso de tus padres para llenar esta encuesta?
+
+El bot debe aplicar la encuesta, y capturar la información y guardarla para poder ser consultada.
+
+La solución debe estar en un repo de git.
+
+Envía tu solución a hectorip[at]hellodave.mx
+
+=== Tecnología
+
+Puedes usar Flask, Django o algún otro framework, no hay límite en cuanto a los paquetes que puedes usar. Puntos extra: Deployment.
+
+=== Evaluación
+
+Por favor, no le dediques más de 3 horas. Si recibiste esta prueba estás casi dentro, pero queremos ver lo que podemos esperar de ti.
+
+=== Puntos de evaluación
+
+. Diseño de la solución:
+    .. Cumplimiento de los requerimientos técnicos
+    .. Simplicidad
+    .. Documentación (comentarios)
+
+. Implementación de la solución
+    .. Simplicidad del código
+    .. Organización de los componentes
+    .. Deployment
+
+== Extra
+
+Crea un "journal" en el que vayas apuntando lo que pasó por tu cabeza mientras estabas desarrollando la solución, los recursos que utilizaste y los problemas más grandes que tuviste.
+

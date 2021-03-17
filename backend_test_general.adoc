@@ -19,7 +19,7 @@ Sugerimos Python como lenguaje de programación. Puedes usar Flask, Django o alg
 
 === Evaluación
 
-Por favor, no le dediques más de 3 horas. Si recibiste esta prueba estás casi dentro, pero queremos
+Por favor, no le dediques más de 3 horas. Si recibiste esta prueba estás casi dentro, pero queremos ver lo que podemos esperar de ti.
 
 === Puntos de evaluación
 
