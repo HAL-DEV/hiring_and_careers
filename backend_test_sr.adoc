@@ -1,0 +1,53 @@
+:stylesheet: ./adoc-foundation.css
+image::https://res.cloudinary.com/hectorip/image/upload/v1569905724/hal_orange_ky85bn.png[]
+
+== Prueba de Código HAL
+
+Diseña e implementa un sistema en Python, que le permita a un usuario crear una encuesta de investigación social y de mercado y aplicar dicha encuesta mediante un bot que funcione por lo menos en dos plataformas de chat (Messenger, Telegram o Slack).
+
+Dicha encuesta podrá incluir un número indeterminado de preguntas, las preguntas podrán ser abiertas (texto) o categóricas (opción múltiple). Si la respuesta es categórica, diferentes respuestas puede llevar a diferentes preguntas. Ejemplo:
+
+**¿Eres mayor de 18 años?**
+
+Sí -> ¿Cuándo sacaste tu credencial de elector?
+
+No -> ¿Tienes permiso de tus padres para llenar esta encuesta?
+
+En pocas palabras, no es un cuestionario lineal. El bot debe aplicar la encuesta, y capturar la información y guardarla para poder ser consultada. El deployment debe ser lo más sencillo posible.
+
+=== Tecnología
+
+Puedes usar Flask, Django o algún otro framework, no hay límite en cuanto a los paquetes que puedes usar.
+
+=== Evaluación y tiempo
+
+Por favor, no le dediques más de 3 horas, gran parte de la evaluación es para entender tu nivel de experiencia, relacionada con qué tanto necesitaste investigar.
+
+=== Puntos de evaluación
+
+. Diseño de la solución:
+    .. Cumplimiento de los requerimientos técnicos
+    .. Simplicidad
+    .. Documentación (comentarios)
+
+. Implementación de la solución
+    .. Simplicidad del código
+    .. Organización de los componentes
+    .. Deployment
+
+
+== Puntos a considerar en la entrevista
+
+. ¿Qué consideraciones hay que tener si quieres poner más clientes?
+. ¿Qué arquitectura conviene si queremos atender a 10k usuarios concurrentes?
+. ¿Qué servicios de infraestructura podríamos usar para minimizar los costos?
+. ¿Que propondrías usar si queremos tener nuestra propio chat? (app)
+
+
+== Extra
+
+Crea un "journal" en el que vayas apuntando lo que pasó por tu cabeza mientras estabas desarrollando la solución, los recursos que utilizaste y los problemas más grandes que tuviste.
+
+== Entrega
+
+Envía tu solución a hectorip[at]hellodave.mx
