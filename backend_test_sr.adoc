@@ -1,11 +1,11 @@
 :stylesheet: ./adoc-foundation.css
-image::https://res.cloudinary.com/hectorip/image/upload/v1569905724/hal_orange_ky85bn.png[]
+image::https://res.cloudinary.com/hectorip/image/upload/c_scale,w_250/v1676954084/Logotipo_Auto%CC%81mata_03_di9uxe.png[]
 
 == Prueba de Código HAL
 
-Diseña e implementa un sistema en Python, que le permita a un usuario crear una encuesta de investigación social y de mercado y aplicar dicha encuesta mediante un bot que funcione por lo menos en dos plataformas de chat (Messenger, Telegram o Slack).
+Diseña e implementa un sistema en Python, que le permita a un usuario crear una encuesta (de cualquier tema) y aplicarla mediante un chatbot que funcione por lo menos en dos plataformas de chat (Messenger, Telegram o Slack, o la de tu prefetencia).
 
-Dicha encuesta podrá incluir un número indeterminado de preguntas, las preguntas podrán ser abiertas (texto) o categóricas (opción múltiple). Si la respuesta es categórica, diferentes respuestas puede llevar a diferentes preguntas. Ejemplo:
+Dicha encuesta podrá incluir un número indeterminado de preguntas (pueden ser agregadas en un admin), las preguntas podrán ser abiertas (texto) o categóricas (opción múltiple). Si la respuesta es categórica, diferentes respuestas puede llevar a diferentes preguntas. Ejemplo:
 
 **¿Eres mayor de 18 años?**
 
@@ -21,7 +21,7 @@ Puedes usar Flask, Django o algún otro framework, no hay límite en cuanto a lo
 
 === Evaluación y tiempo
 
-Por favor, no le dediques más de 3 horas, gran parte de la evaluación es para entender tu nivel de experiencia, relacionada con qué tanto necesitaste investigar.
+Por favor, no le dediques más de 3 horas, gran parte de la evaluación es para entender tu nivel de experiencia, relacionada con qué tanto necesitaste investigar y tu capacidad de entender problemas y diseñar soluciones.
 
 === Puntos de evaluación
 
@@ -35,13 +35,14 @@ Por favor, no le dediques más de 3 horas, gran parte de la evaluación es para 
     .. Organización de los componentes
     .. Deployment
 
+No se va a evaluar que se haya completado el proyecto, sino el diseño, y el prototipado, ya que el proyecto es demasiado grande para 3 horas.
 
 == Puntos a considerar en la entrevista
 
-. ¿Qué consideraciones hay que tener si quieres poner más clientes?
+. ¿Qué consideraciones hay que tener si quieres poner más canales de comunicación?
 . ¿Qué arquitectura conviene si queremos atender a 10k usuarios concurrentes?
 . ¿Qué servicios de infraestructura podríamos usar para minimizar los costos?
-. ¿Que propondrías usar si queremos tener nuestra propio chat? (app)
+. ¿Que propondrías usar si queremos tener nuestra propio chat? (App)
 
 
 == Extra
@@ -50,4 +51,4 @@ Crea un "journal" en el que vayas apuntando lo que pasó por tu cabeza mientras 
 
 == Entrega
 
-Envía tu solución a hectorip[at]hellodave.mx
+Podemos platicar de lo que lograste en la entrevista.

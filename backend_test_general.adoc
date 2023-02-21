@@ -1,5 +1,5 @@
 :stylesheet: ./adoc-foundation.css
-image::https://res.cloudinary.com/hectorip/image/upload/v1569905724/hal_orange_ky85bn.png[]
+image::https://res.cloudinary.com/hectorip/image/upload/c_scale,w_250/v1676954084/Logotipo_Auto%CC%81mata_03_di9uxe.png[]
 
 == Prueba de Código HAL
 
