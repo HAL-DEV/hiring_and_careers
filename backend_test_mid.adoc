@@ -1,7 +1,7 @@
 :stylesheet: ./adoc-foundation.css
 image::https://res.cloudinary.com/hectorip/image/upload/c_scale,w_250/v1676954084/Logotipo_Auto%CC%81mata_03_di9uxe.png[]
 
-== Prueba de Código HAL
+== Prueba técnica - Autómata
 
 Diseña e implementa un sistema en Python, que le permita a un usuario crear una encuesta de investigación social y de mercado y aplicar dicha encuesta mediante un bot (Messenger, Telegram o Slack).
 
