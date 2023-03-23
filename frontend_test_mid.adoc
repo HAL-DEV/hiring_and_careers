@@ -26,7 +26,7 @@ Plus: usar un builder como Vite o TurboPack.
 
 === Tecnología
 
-Puedes usar cualquier framework de React (NextJS, Remix) o simplemente React sin ningún framework. Usar cualquier bibliote de CSS que te ayude a hacer la página estática.
+Puedes usar cualquier framework de React (NextJS, Remix) o simplemente React sin ningún framework. Usar cualquier biblioteca de CSS que te ayude a hacer la página estática.
 
 === Evaluación y tiempo
 
@@ -51,4 +51,4 @@ Crea un "journal" en el que vayas apuntando lo que pasó por tu cabeza mientras 
 
 == Entrega
 
-Envía tu solución a hectorip[at]hellodave.mx, por WhatsApp o por correo electrónico. La solución debe tener el código en un repositorio y el link a la página pública.
+Envía tu solución a hectorip@hellodave.mx, por WhatsApp o por correo electrónico. La solución debe tener el código en un repositorio y el link a la página pública.
