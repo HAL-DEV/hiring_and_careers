@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.18">
-<title>Prueba técnica - Autómata</title>
+<title>Prueba técnica Frontend - React - Autómata</title>
 <style>
 @import url(http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.css);
 /* normalize.css v2.1.1 | MIT License | git.io/normalize */
@@ -640,30 +640,44 @@ span.icon > [class^="icon-"], span.icon > [class*=" icon-"] { cursor: default; }
 </div>
 </div>
 <div class="sect1">
-<h2 id="_prueba_técnica_autómata">Prueba técnica - Autómata</h2>
+<h2 id="_prueba_técnica_frontend_react_autómata">Prueba técnica Frontend - React - Autómata</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Diseña e implementa un sistema en Python, que le permita a un usuario crear una encuesta de investigación social y de mercado y aplicar dicha encuesta mediante un bot (Messenger, Telegram o Slack).</p>
+<p>Crea una página web que haga lo siguiente:</p>
 </div>
 <div class="paragraph">
-<p>Dicha encuesta podrá incluir un número indeterminado de preguntas, las preguntas podrán ser abiertas (texto) o categóricas (opción múltiple). Si la respuesta es categórica, diferentes respuestas puede llevar a diferentes preguntas. Ejemplo:</p>
+<p>Debe leer la última parte de la URL que será un Timestamp en formato Unix y mostrar la fecha en la página. Si la URL no tiene un timestamp, debe mostrar la fecha en la que se visitó la página.</p>
 </div>
 <div class="paragraph">
-<p><strong>¿Eres mayor de 18 años?</strong></p>
+<p>El segundo componente es un contador del tiempo que ha pasado o que falta para la fecha que se muestra arriba.</p>
 </div>
 <div class="paragraph">
-<p>Sí &#8594; ¿Cuándo sacaste tu credencial de elector?</p>
+<p>Ejemplo: <a href="https://tu_url.com/1679600181" class="bare">https://tu_url.com/1679600181</a></p>
 </div>
 <div class="paragraph">
-<p>No &#8594; ¿Tienes permiso de tus padres para llenar esta encuesta?</p>
+<p>Se podría ver algo así:</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://res.cloudinary.com/hectorip/image/upload/v1679608733/Sin_ti%CC%81tulo-2023-03-23-1353_xepcoa.png" alt="Sin ti%CC%81tulo 2023 03 23 1353 xepcoa">
+</div>
 </div>
 <div class="paragraph">
-<p>En pocas palabras, no es un cuestionario lineal. El bot debe aplicar la encuesta, y capturar la información y guardarla para poder ser consultada.</p>
+<p>Es importante que se vea bien en móviles.</p>
+</div>
+<div class="paragraph">
+<p>Finalmente, poner en línea esa página web en un servicio como Vercel o Netlify.</p>
+</div>
+<div class="paragraph">
+<p>La página debe ser completamente estática, no debe hacer llamadas a ningún API.</p>
+</div>
+<div class="paragraph">
+<p>Plus: usar un builder como Vite o TurboPack.</p>
 </div>
 <div class="sect2">
 <h3 id="_tecnología">Tecnología</h3>
 <div class="paragraph">
-<p>Puedes usar Flask, Django o algún otro framework, no hay límite en cuanto a los paquetes que puedes usar. Puntos extra: Deployment.</p>
+<p>Puedes usar cualquier framework de React (NextJS, Remix) o simplemente React sin ningún framework. Usar cualquier bibliote de CSS que te ayude a hacer la página estática.</p>
 </div>
 </div>
 <div class="sect2">
@@ -688,6 +702,9 @@ span.icon > [class^="icon-"], span.icon > [class*=" icon-"] { cursor: default; }
 </li>
 <li>
 <p>Documentación (comentarios)</p>
+</li>
+<li>
+<p>Tests</p>
 </li>
 </ol>
 </div>
@@ -725,14 +742,14 @@ span.icon > [class^="icon-"], span.icon > [class*=" icon-"] { cursor: default; }
 <h2 id="_entrega">Entrega</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Envía tu solución a hectorip[at]hellodave.mx</p>
+<p>Envía tu solución a hectorip[at]hellodave.mx, por WhatsApp o por correo electrónico. La solución debe tener el código en un repositorio y el link a la página pública.</p>
 </div>
 </div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2023-03-23 13:24:13 -0600
+Last updated 2023-03-23 16:09:23 -0600
 </div>
 </div>
 </body>

@@ -1,0 +1,54 @@
+:stylesheet: ./adoc-foundation.css
+image::https://res.cloudinary.com/hectorip/image/upload/c_scale,w_250/v1676954084/Logotipo_Auto%CC%81mata_03_di9uxe.png[]
+
+== Prueba técnica Frontend - React - Autómata
+
+Crea una página web que haga lo siguiente:
+
+Debe leer la última parte de la URL que será un Timestamp en formato Unix y mostrar la fecha en la página. Si la URL no tiene un timestamp, debe mostrar la fecha en la que se visitó la página.
+
+El segundo componente es un contador del tiempo que ha pasado o que falta para la fecha que se muestra arriba.
+
+
+Ejemplo: https://tu_url.com/1679600181
+
+Se podría ver algo así:
+
+image::https://res.cloudinary.com/hectorip/image/upload/v1679608733/Sin_ti%CC%81tulo-2023-03-23-1353_xepcoa.png[]
+
+Es importante que se vea bien en móviles.
+
+Finalmente, poner en línea esa página web en un servicio como Vercel o Netlify.
+
+La página debe ser completamente estática, no debe hacer llamadas a ningún API.
+
+Plus: usar un builder como Vite o TurboPack.
+
+=== Tecnología
+
+Puedes usar cualquier framework de React (NextJS, Remix) o simplemente React sin ningún framework. Usar cualquier bibliote de CSS que te ayude a hacer la página estática.
+
+=== Evaluación y tiempo
+
+Por favor, no le dediques más de 3 horas, gran parte de la evaluación es para entender tu nivel de experiencia, relacionada con qué tanto necesitaste investigar.
+
+=== Puntos de evaluación
+
+. Diseño de la solución:
+    .. Cumplimiento de los requerimientos técnicos
+    .. Simplicidad
+    .. Documentación (comentarios)
+    .. Tests
+
+. Implementación de la solución
+    .. Simplicidad del código
+    .. Organización de los componentes
+    .. Deployment
+
+== Extra
+
+Crea un "journal" en el que vayas apuntando lo que pasó por tu cabeza mientras estabas desarrollando la solución, los recursos que utilizaste y los problemas más grandes que tuviste.
+
+== Entrega
+
+Envía tu solución a hectorip[at]hellodave.mx, por WhatsApp o por correo electrónico. La solución debe tener el código en un repositorio y el link a la página pública.
